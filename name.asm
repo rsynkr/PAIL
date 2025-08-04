@@ -1,8 +1,8 @@
 global _start 
 section .data
-	name1 db "Prathamesh" ,10
+	name1 db "Rishi" ,10
 	length1 equ $-name1
-	name2 db "Nehete" ,10
+	name2 db "Narkar" ,10
 	length2 equ $-name2
 
 section  .text 
